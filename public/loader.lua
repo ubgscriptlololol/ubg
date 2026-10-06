@@ -23,5 +23,5 @@ if _F then
     local ok, err = pcall(_F)
     if not ok then warn('love fenix', err) end
 else
-    warn('we love fenix', _E)
+    warn('we love fenix so much', _E)
 end
